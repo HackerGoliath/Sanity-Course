@@ -1,1 +1,4 @@
 Web Template : https://atom.redpixelthemes.com/
+React Portable : https://www.npmjs.com/package/react-portable-text
+GROQ Cheatsheet : https://www.sanity.io/docs/query-cheat-sheet
+Connect sanity to nextjs : https://www.sanity.io/docs/connect-your-content-to-next-js
