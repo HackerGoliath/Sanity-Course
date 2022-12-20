@@ -3,3 +3,4 @@ React Portable : https://www.npmjs.com/package/react-portable-text
 GROQ Cheatsheet : https://www.sanity.io/docs/query-cheat-sheet
 Connect sanity to nextjs : https://www.sanity.io/docs/connect-your-content-to-next-js
 Portfolio Link : https://codewithdeepak.sanity.studio/
+search sanity http-api docs
